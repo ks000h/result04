@@ -8,7 +8,6 @@
     <meta name="apple-mobile-web-app-title" content="QRコレクション">
     <meta name="theme-color" content="#6366f1">
     <title>QRコードイラストコレクション</title>
-    <link rel="manifest" href="manifest.json">
     <link rel="stylesheet" href="styles-mobile.css">
     <link rel="stylesheet" media="(min-width: 1024px)" href="styles.css">
     <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect fill='%236366f1' width='180' height='180'/><text x='50%' y='50%' font-size='80' fill='white' text-anchor='middle' dy='0.3em'>🎨</text></svg>">
