@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="QRコレクション">
+    <meta name="theme-color" content="#6366f1">
+    <title>QRコードイラストコレクション</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="styles-mobile.css">
+    <link rel="stylesheet" media="(min-width: 1024px)" href="styles.css">
+    <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect fill='%236366f1' width='180' height='180'/><text x='50%' y='50%' font-size='80' fill='white' text-anchor='middle' dy='0.3em'>🎨</text></svg>">
+    <link rel="icon" href="data:,">
+</head>
+<body>
+    <div class="container">
+        <!-- ヘッダー -->
+        <header class="header">
+            <img id="app-logo" class="logo-image" src="images/title.png" alt="QRコードイラストコレクション ロゴ">
+            <p class="subtitle">生成したモンスターをコレクションできます！</p>
+            <div id="scan-count-label" style="margin-top:8px;font-size:0.95em;color:#9b9b9b;font-weight:600;">累計読み取り数: <span id="scan-count">0</span></div>
+        </header>
+
+      
+</body>
+</html>
